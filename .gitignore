@@ -1,0 +1,8 @@
+packages/*
+TestResults/*
+OrderASPWCF.sln
+OrderASPWCF.v11.suo
+OrderASPWCF/bin/*
+OrderASPWCF/obj/*
+ClientConsole/bin/*
+ClientConsole/obj/*
