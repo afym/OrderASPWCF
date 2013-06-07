@@ -11,18 +11,12 @@ namespace OrderASPWCF
 {
     using System;
     using System.Collections.Generic;
-    using System.Runtime.Serialization;
-
-    [DataContract]
+    
     public partial class Product
     {
-        [DataMember]
         public int Id { get; set; }
-        [DataMember]
         public string Name { get; set; }
-        [DataMember]
         public int Stock { get; set; }
-        [DataMember]
         public bool Available { get; set; }
         public int CategoryId { get; set; }
     
