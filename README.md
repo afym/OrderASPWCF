@@ -1,4 +1,4 @@
 OrderASPWCF
 ===========
 
-Consume data from our web app OrderASP in a console app through WCF
+Consume data in a console app using WCF.
